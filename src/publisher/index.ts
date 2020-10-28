@@ -211,7 +211,7 @@ export class Publisher {
     }
   }
   /**
-   * Sets the Publisher options.
+   * Sets the Publisher options locally.
    *
    * @private
    *

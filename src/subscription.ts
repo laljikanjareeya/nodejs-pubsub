@@ -1035,7 +1035,7 @@ export class Subscription extends EventEmitter {
     );
   }
   /**
-   * Sets the Subscription options.
+   * Sets the Subscription options locally.
    *
    * @param {SubscriberOptions} options The options.
    */

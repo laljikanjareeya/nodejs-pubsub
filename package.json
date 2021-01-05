@@ -1,7 +1,7 @@
 {
   "name": "@google-cloud/pubsub",
   "description": "Cloud Pub/Sub Client Library for Node.js",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "license": "Apache-2.0",
   "author": "Google Inc.",
   "engines": {
@@ -53,8 +53,8 @@
     "@google-cloud/precise-date": "^2.0.0",
     "@google-cloud/projectify": "^2.0.0",
     "@google-cloud/promisify": "^2.0.0",
-    "@opentelemetry/api": "^0.11.0",
-    "@opentelemetry/tracing": "^0.11.0",
+    "@opentelemetry/api": "^0.12.0",
+    "@opentelemetry/tracing": "^0.12.0",
     "@types/duplexify": "^3.6.0",
     "@types/long": "^4.0.0",
     "arrify": "^2.0.0",
@@ -80,7 +80,7 @@
     "@types/uuid": "^8.0.0",
     "c8": "^7.0.0",
     "codecov": "^3.0.0",
-    "execa": "^4.0.0",
+    "execa": "^5.0.0",
     "gts": "^2.0.0",
     "jsdoc": "^3.6.2",
     "jsdoc-fresh": "^1.0.1",
